@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [IrisQL](https://irisql.dev)
 
-- 🌱 I’m currently learning **GraphQL and Gatsby**
+- 🌱 I’m currently learning **GraphQL and Machine Learning**
 
 - 💬 Ask me about **React, State Management with Hooks**
 
