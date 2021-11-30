@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **GraphQL and Machine Learning**
 
-- 💬 Ask me about **Node.js, Express.js, React with Hooks**
+- 💬 Ask me about **Node.js, Express.js, SQL**
 
 - 📫 How to reach me **akim3235@gmail.com**
 
