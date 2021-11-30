@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akim3235&label=Profile%20views&color=0e75b6&style=flat" alt="akim3235" /> </p>
 
-- 🔭 I’m currently working on [IrisQL](https://irisql.dev)
+- 🔭 I’m currently working at [AT&T]
 
 - 🌱 I’m currently learning **GraphQL and Machine Learning**
 
-- 💬 Ask me about **React, State Management with Hooks**
+- 💬 Ask me about **Node.js, Express.js, React with Hooks**
 
 - 📫 How to reach me **akim3235@gmail.com**
 
