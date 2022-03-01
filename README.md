@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexander Kim</h1>
+<h1 align="center">Hi 👋, I'm Alex Kim</h1>
 <h3 align="center">A passionate software engineer interested in building applications that make life better.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akim3235&label=Profile%20views&color=0e75b6&style=flat" alt="akim3235" /> </p>
