@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working at [AT&T]
 
-- 🌱 I’m currently learning **GraphQL and Machine Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Node.js, Express.js, SQL**
+- 💬 Ask me about **Node.js, GraphQL, SQL**
 
 - 📫 How to reach me **akim3235@gmail.com**
 
