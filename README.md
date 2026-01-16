@@ -171,18 +171,3 @@
   </a>
 </p>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=akim3235&show_icons=true&locale=en&layout=compact"
-    alt="akim3235"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=akim3235&show_icons=true&locale=en"
-    alt="akim3235"
-  />
-</p>
