@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [AT&T]
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Golang, NestJS**
 
 - 💬 Ask me about **Node.js, GraphQL, SQL**
 
